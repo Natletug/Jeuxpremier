@@ -132,7 +132,7 @@ while running:
         if 0.436 > effet:
             effet = 0.436
 
-
+    #Hehe
             
         """
         bllvy = bllvmax * effet
